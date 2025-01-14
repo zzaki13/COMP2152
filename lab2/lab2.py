@@ -1,4 +1,4 @@
-import random
+1import random
 
 # List of weapons
 weapons = ["Use Fist", "Knife", "Club", "Gun", "Bomb", "Nuclear Bomb"]
